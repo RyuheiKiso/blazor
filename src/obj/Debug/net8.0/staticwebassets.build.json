@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "JokEgoxAF918t9V7REo99MFbZJULqxi0VJh4WUj5qsY=",
+  "Source": "BlazorPageScript",
+  "BasePath": "_content/BlazorPageScript",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "BlazorPageScript\\wwwroot",
+      "Source": "BlazorPageScript",
+      "ContentRoot": "C:\\work\\blazor\\src\\wwwroot\\",
+      "BasePath": "_content/BlazorPageScript",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\work\\blazor\\src\\obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json",
+      "SourceId": "BlazorPageScript",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\work\\blazor\\src\\obj\\Debug\\net8.0\\jsmodules\\",
+      "BasePath": "_content/BlazorPageScript",
+      "RelativePath": "BlazorPageScript.modules.json",
+      "AssetKind": "Build",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "JSModule",
+      "AssetTraitValue": "JSModuleManifest",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "obj\\Debug\\net8.0\\jsmodules\\jsmodules.build.manifest.json"
+    },
+    {
+      "Identity": "C:\\work\\blazor\\src\\wwwroot\\BlazorPageScript.lib.module.js",
+      "SourceId": "BlazorPageScript",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\work\\blazor\\src\\wwwroot\\",
+      "BasePath": "_content/BlazorPageScript",
+      "RelativePath": "BlazorPageScript.lib.module.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "JSModule",
+      "AssetTraitValue": "JSLibraryModule",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\BlazorPageScript.lib.module.js"
+    }
+  ]
+}
