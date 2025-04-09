@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MackinnonBuck")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5cee41b331b24c6f3da013b3d1374edd2c73b6a5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6ac56a2f9f324a8ce97013c01c4206f1c9bc2074")]
 [assembly: System.Reflection.AssemblyProductAttribute("BlazorPageScript")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BlazorPageScript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
