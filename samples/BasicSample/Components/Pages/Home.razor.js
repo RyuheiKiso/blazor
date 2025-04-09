@@ -1,15 +1,14 @@
-// Called when the script first gets loaded on the page.
+// ページが初めて読み込まれたときに呼び出される関数
 export function onLoad() {
     console.log('Home page load');
 }
 
-// Called when an enhanced page update occurs, plus once immediately after
-// the initial load.
+// ページの更新時、または初回読み込み直後に呼び出される関数
 export function onUpdate() {
     console.log('Home page update');
 }
 
-// Called when an enhanced page update removes the script from the page.
+// ページの更新でスクリプトが削除されたときに呼び出される関数
 export function onDispose() {
     console.log('Home page dispose');
 }
